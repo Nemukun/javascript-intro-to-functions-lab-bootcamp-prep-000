@@ -30,4 +30,3 @@ function sayHiToGrandma(string){
 
 
 
-3) sayHiToGrandma(string) returns "I love you,too." if `string` is "I love you, Grandma."`:
