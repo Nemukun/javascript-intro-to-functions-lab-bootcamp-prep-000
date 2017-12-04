@@ -17,10 +17,10 @@ function logWhisper(string){
 var greeting = 'hello'
 
 function sayHiToGrandma(string){
-  case greeting.toLowerCase()===sayHiToGrandma:
+  case greeting.toLowerCase()===greeting:
     return "I can't hear you!";
     break;
-  case greeting.toUpperCase()===sayHiToGrandma:
+  case greeting.toUpperCase()===greeting:
     return "YES INDEED!";
     break;
   case greeting==="I love you, Grandma.":
