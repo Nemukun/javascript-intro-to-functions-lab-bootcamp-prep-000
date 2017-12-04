@@ -14,9 +14,8 @@ function logWhisper(string){
   console.log(string.toLowerCase());
 }
 
-var greeting = 'hello'
-
 function sayHiToGrandma(string){
+  var greeting = 'hello';
   case greeting.toLowerCase()===greeting:
     return "I can't hear you!";
     break;
@@ -26,6 +25,11 @@ function sayHiToGrandma(string){
   case greeting==="I love you, Grandma.":
     return "I love you, too.";
     break;
+
+  
+  
+  
+  
 }
 
 
