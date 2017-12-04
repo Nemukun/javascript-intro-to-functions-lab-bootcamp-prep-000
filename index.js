@@ -8,3 +8,4 @@ function whisper(string){
 
 
 
+2) logShout(string) calls console.log() its one argument in all caps:
