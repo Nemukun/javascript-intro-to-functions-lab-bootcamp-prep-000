@@ -10,6 +10,7 @@ logShout(string){
   console.log(string.toUpperCase());
 }
 
-2) logShout(string) calls console.log() its one argument in all caps:
+logWhisper(string){
+  console.log(string.toLowerCase());
+}
 
-3) logWhisper(string) calls console.log() its one argument in all lowercase:
