@@ -14,6 +14,7 @@ function logWhisper(string){
   console.log(string.toLowerCase());
 }
 
+var sayHiToGrandma = 'hello'
 
 1) sayHiToGrandma(string) returns "I can't hear you!" if `string` is lowercase:
 
